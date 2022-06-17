@@ -1,4 +1,4 @@
-### Hi! My name is Luiz. I love programming!
+### Hi! My name is Luiz and I love to meet new technologies 😁🖥️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizgabrielwojtovicz/)
 
