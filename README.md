@@ -17,3 +17,7 @@
   <img align = "center" alt = "mysql" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align = "center" alt = "python" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
+
+<div>
+  <img src = "https://www.bing.com/th/id/OGC.64066d694f1963d9181af93962a1d4b8?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f06%2f8a%2f78%2f068a78627d7840d2d861d68ffb1a89f6.gif&ehk=mcWdYHGSAoXqlSR%2bhT2wnBez3tENzIQhu1WVE38u6Gc%3d"/>
+</div>
