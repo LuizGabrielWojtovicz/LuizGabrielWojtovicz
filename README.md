@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizgabrielwojtovicz/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizGabrielWojtovicz&show_icons=true&theme=merko)
-  <img  class = "gif" align = "center" height = "250" width = "250" src = "https://user-images.githubusercontent.com/83958914/174491012-f40a2868-a6ad-4a7e-958d-53be169cbb02.gif"/>
+  <img  class = "gif" align = "center" height = "200" width = "200" src = "https://user-images.githubusercontent.com/83958914/174491012-f40a2868-a6ad-4a7e-958d-53be169cbb02.gif"/>
 
 ## Conhecimento das seguintes tecnologias:
 
