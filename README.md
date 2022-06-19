@@ -13,7 +13,7 @@
   <img align = "center" alt = "css" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align = "center" alt = "javascript" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align = "center" alt = "java" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align = "center" alt = "c" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img align = "center" alt = "c" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img align = "center" alt = "mysql" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   
   
