@@ -3,7 +3,6 @@
 
 .gif
 { 
-  border: 
   border-radius: 10;
 }
 </style>
