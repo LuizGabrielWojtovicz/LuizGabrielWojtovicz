@@ -1,8 +1,9 @@
 style
 {
 .gif
-{
-border-radius: 50%;
+{ 
+  border: 
+  border-radius: 10;
 }
 }
 
