@@ -15,7 +15,7 @@
   
   <img align = "center" alt = "css" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   
-  <img  class = "gif" align = "center" height = "10" width = "10" src = "https://www.bing.com/th/id/OGC.64066d694f1963d9181af93962a1d4b8?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f06%2f8a%2f78%2f068a78627d7840d2d861d68ffb1a89f6.gif&ehk=mcWdYHGSAoXqlSR%2bhT2wnBez3tENzIQhu1WVE38u6Gc%3d"/>
+  <img  class = "gif" align = "center" height = "10" width = "10" src = "![068a78627d7840d2d861d68ffb1a89f6 1](https://user-images.githubusercontent.com/83958914/174490864-f5f5b3ba-3d15-4021-9479-76ae2248c05f.gif)"/>
   
   <img align = "center" alt = "javascript" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   
