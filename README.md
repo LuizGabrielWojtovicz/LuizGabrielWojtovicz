@@ -1,11 +1,13 @@
-style
-{
+<head>
+<style>
+
 .gif
 { 
   border: 
   border-radius: 10;
 }
-}
+</style>
+</head>
 
 ### Hi! My name is Luiz and I love to meet new technologies 😁🖥️
 
