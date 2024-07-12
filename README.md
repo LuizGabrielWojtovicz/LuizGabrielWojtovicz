@@ -1,6 +1,7 @@
 <h2 align="center""><strong>Data Engineer | Data Scientist</strong></h2>
 
-<p>• Coffee lover and code enthusiast! ☕️<br>• Coffee lover and code enthusiast! ☕️</p>
+<p>• Coffee lover and code enthusiast! ☕️
+  <br>• Exploring the vast world of data engineering and science! 📈</p>
 
 ###
 
