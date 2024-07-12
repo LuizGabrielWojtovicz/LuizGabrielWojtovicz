@@ -11,6 +11,8 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/download/353380/airflow.svg" height="30" alt="python logo"  />
   <img width="12" />
+  <img src="https://www.svgrepo.com/download/353851/hadoop.svg" height="30" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="30" alt="apachecassandra logo"  />
