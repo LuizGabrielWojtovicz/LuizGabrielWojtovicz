@@ -1,4 +1,4 @@
-<h2 align="center" style="color: #000000;">Data Engineer | Data Scientist</h2>
+<h2 align="center""><strong>Data Engineer | Data Scientist</strong></h2>
 
 ###
 
