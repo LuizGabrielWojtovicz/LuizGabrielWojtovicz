@@ -1,7 +1,7 @@
 <h2 align="center">Data Engineer | Data Scientist</h2>
 
 ###
-<img align="right" height="150" src="https://i0.wp.com/multarte.com.br/wp-content/uploads/2019/01/fundo-banner-png24.png?fit=1919%2C1487&ssl=1"  />
+<img align="center" height="150" src="https://i0.wp.com/multarte.com.br/wp-content/uploads/2019/01/fundo-banner-png24.png?fit=1919%2C1487&ssl=1"  />
 
 
 <img align="right" height="150" src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif"  />
