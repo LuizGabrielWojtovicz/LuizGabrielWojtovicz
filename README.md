@@ -9,6 +9,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
+  <img src="https://spark.apache.org/docs/2.4.0/img/spark-logo-hd.png" height="30" alt="python logo"  />
+  <img width="12" />
   <img src="https://www.svgrepo.com/download/353380/airflow.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/download/353851/hadoop.svg" height="30" alt="python logo"  />
