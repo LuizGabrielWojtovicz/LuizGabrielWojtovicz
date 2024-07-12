@@ -1,7 +1,9 @@
 <h2 align="center""><strong>Data Engineer | Data Scientist</strong></h2>
 
 <p>• Coffee lover and code enthusiast! ☕️
-  <br>• Exploring the vast world of data engineering and science! 📈</p>
+  <br>• Exploring the vast world of data engineering and science! 📊
+  <br>• focused on predicting stock market movements with machine learning! 📈
+  <br>• Always looking for new challenges and learning! ⚡</p>
 
 ###
 
