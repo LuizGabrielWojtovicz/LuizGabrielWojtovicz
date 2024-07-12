@@ -19,6 +19,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="30" alt="apachecassandra logo"  />
   <img width="12" />
+  <img src="https://z-images.s3.amazonaws.com/thumb/2/20/Power_BI_logo.svg/1200px-Power_BI_logo.svg.png" height="30" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
