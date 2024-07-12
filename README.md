@@ -1,7 +1,8 @@
 <h2 align="center">Data Engineer | Data Scientist</h2>
 
 ###
-<img align="center" width="150" height="150" src="https://img1.picmix.com/output/stamp/normal/0/5/3/1/2051350_0f0b7.gif"  />
+<img align="center" width="150" height="150" src="https://img1.picmix.com/output/stamp/normal/0/5/3/1/2051350_0f0b7.gif" style="transform: scaleX(-1);" />
+
 
 
 <img align="right" height="150" src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif"  />
